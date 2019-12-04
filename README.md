@@ -1,2 +1,2 @@
-My first news app
+Map app
 ===================
